@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD4E05U06DQAR
+D 4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10
+K ESD protection USB 3.0
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+$ENDCMP
+#
+#End Doc Library

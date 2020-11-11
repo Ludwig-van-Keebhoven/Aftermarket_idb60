@@ -1,0 +1,3279 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	12800 2150 13075 2150
+Wire Wire Line
+	13075 2150 13075 2825
+Connection ~ 13075 2150
+Wire Wire Line
+	13550 6600 13550 6550
+Wire Wire Line
+	13550 7050 14150 7050
+Wire Wire Line
+	13550 6875 13550 7050
+Wire Wire Line
+	13575 6875 13550 6875
+Wire Wire Line
+	13575 6825 13575 6875
+Wire Wire Line
+	13550 6825 13575 6825
+Wire Wire Line
+	13550 6800 13550 6825
+Wire Wire Line
+	13350 6350 13075 6350
+Wire Wire Line
+	12600 6850 14150 6850
+Wire Wire Line
+	12600 6800 12600 6850
+Connection ~ 13550 7050
+Wire Wire Line
+	11850 7050 13550 7050
+Connection ~ 12600 6850
+Wire Wire Line
+	4125 6850 12600 6850
+Wire Wire Line
+	13100 6075 13075 6075
+Wire Wire Line
+	13100 6025 13100 6075
+Wire Wire Line
+	13075 6025 13100 6025
+Wire Wire Line
+	13075 5875 13075 6025
+Wire Wire Line
+	13100 5875 13075 5875
+Wire Wire Line
+	13100 5825 13100 5875
+Wire Wire Line
+	13075 5825 13100 5825
+Wire Wire Line
+	13075 6350 13075 6275
+Wire Wire Line
+	13075 6075 13075 6275
+Connection ~ 13075 6275
+Wire Wire Line
+	12600 6275 13075 6275
+Wire Wire Line
+	12600 6275 12600 6350
+Wire Wire Line
+	12375 6600 12375 6550
+Wire Wire Line
+	12825 6600 12825 6550
+Wire Wire Line
+	12600 6350 12625 6350
+Connection ~ 12600 6350
+Wire Wire Line
+	12600 6350 12575 6350
+Wire Wire Line
+	13075 5250 13075 5075
+Connection ~ 13075 5250
+Wire Wire Line
+	12800 5250 13075 5250
+Wire Wire Line
+	12600 5850 14150 5850
+Wire Wire Line
+	12600 5775 12600 5850
+Connection ~ 12600 5850
+Wire Wire Line
+	10925 5850 12600 5850
+Wire Wire Line
+	13100 5075 13075 5075
+Wire Wire Line
+	13100 5025 13100 5075
+Wire Wire Line
+	13075 5025 13100 5025
+Wire Wire Line
+	13075 4875 13075 5025
+Wire Wire Line
+	13100 4875 13075 4875
+Wire Wire Line
+	13100 4825 13100 4875
+Wire Wire Line
+	13075 4825 13100 4825
+Wire Wire Line
+	13550 5050 14150 5050
+Connection ~ 13550 5050
+Wire Wire Line
+	13550 4875 13550 5050
+Wire Wire Line
+	13575 4875 13550 4875
+Wire Wire Line
+	13575 4825 13575 4875
+Wire Wire Line
+	13550 4825 13575 4825
+Wire Wire Line
+	13550 4775 13550 4825
+Wire Wire Line
+	13100 4075 13075 4075
+Wire Wire Line
+	13100 4025 13100 4075
+Wire Wire Line
+	13075 4025 13100 4025
+Wire Wire Line
+	13075 3875 13075 4025
+Wire Wire Line
+	13100 3875 13075 3875
+Wire Wire Line
+	13100 3825 13100 3875
+Wire Wire Line
+	13075 3825 13100 3825
+Wire Wire Line
+	13075 3300 13075 3825
+Wire Wire Line
+	13550 4050 14150 4050
+Connection ~ 13550 4050
+Wire Wire Line
+	13550 3875 13550 4050
+Wire Wire Line
+	13575 3875 13550 3875
+Wire Wire Line
+	13575 3825 13575 3875
+Wire Wire Line
+	13550 3825 13575 3825
+Wire Wire Line
+	13550 3750 13550 3825
+Wire Wire Line
+	12800 3300 13075 3300
+Connection ~ 13075 3300
+Wire Wire Line
+	13075 3300 13075 3075
+Wire Wire Line
+	13350 3300 13075 3300
+Wire Wire Line
+	12600 3850 14150 3850
+Connection ~ 12600 3850
+Wire Wire Line
+	12600 3750 12600 3850
+Wire Wire Line
+	13100 3075 13075 3075
+Wire Wire Line
+	13100 3025 13100 3075
+Wire Wire Line
+	13075 3025 13100 3025
+Wire Wire Line
+	13075 2875 13075 3025
+Wire Wire Line
+	13100 2875 13075 2875
+Wire Wire Line
+	13100 2825 13100 2875
+Wire Wire Line
+	13075 2825 13100 2825
+Wire Wire Line
+	13550 3050 14150 3050
+Wire Wire Line
+	13550 2875 13550 3050
+Wire Wire Line
+	13575 2875 13550 2875
+Wire Wire Line
+	13575 2825 13575 2875
+Wire Wire Line
+	13550 2825 13575 2825
+Wire Wire Line
+	13550 2600 13550 2825
+Connection ~ 13550 3050
+Wire Wire Line
+	11825 3050 13550 3050
+Text Label 13075 1925 0    50   ~ 0
+C7
+Wire Wire Line
+	12600 2350 12600 2400
+$Comp
+L Device:D_Small D_?
+U 1 1 61D60D80
+P 12600 2500
+AR Path="/61D60D80" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D60D80" Ref="D_13"  Part="1" 
+F 0 "D_13" V 12670 2400 50  0000 R CNN
+F 1 "D" V 12580 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 12300 2450 50  0001 C CNN
+F 3 "~" H 12300 2450 50  0001 C CNN
+F 4 "C109000" H 12600 2500 50  0001 C CNN "LCSC"
+	1    12600 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D60D86
+P 12650 2200
+AR Path="/61D60D86" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D60D86" Ref="K_13"  Part="1" 
+F 0 "K_13" H 12650 2433 60  0000 C CNN
+F 1 "KEYSW" H 12650 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 12650 2200 60  0001 C CNN
+F 3 "" H 12650 2200 60  0000 C CNN
+F 4 "~" H 12650 2200 50  0001 C CNN "LCSC"
+	1    12650 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12600 2850 14300 2850
+Connection ~ 12600 2850
+Wire Wire Line
+	12600 2600 12600 2850
+$Comp
+L Device:D_Small D_?
+U 1 1 61D60D92
+P 13550 2500
+AR Path="/61D60D92" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D60D92" Ref="D_14"  Part="1" 
+F 0 "D_14" V 13620 2400 50  0000 R CNN
+F 1 "D" V 13530 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 13250 2450 50  0001 C CNN
+F 3 "~" H 13250 2450 50  0001 C CNN
+F 4 "C109000" H 13550 2500 50  0001 C CNN "LCSC"
+	1    13550 2500
+	0    -1   -1   0   
+$EndComp
+Text GLabel 13075 1850 0    50   Input ~ 0
+col6
+Wire Wire Line
+	11850 6875 11850 7050
+Wire Wire Line
+	11875 6875 11850 6875
+Wire Wire Line
+	11875 6825 11875 6875
+Wire Wire Line
+	11850 6825 11875 6825
+Wire Wire Line
+	11850 6800 11850 6825
+Wire Wire Line
+	11375 6275 11850 6275
+Connection ~ 11850 7050
+Wire Wire Line
+	7525 7050 11850 7050
+Wire Wire Line
+	12075 6600 12075 6550
+Wire Wire Line
+	11625 6550 11625 6600
+Wire Wire Line
+	11850 6350 11875 6350
+Wire Wire Line
+	11375 6275 11375 6075
+Wire Wire Line
+	11850 6350 11850 6275
+Connection ~ 11850 6350
+Wire Wire Line
+	11825 6350 11850 6350
+Wire Wire Line
+	11400 6075 11375 6075
+Wire Wire Line
+	11400 6025 11400 6075
+Wire Wire Line
+	11375 6025 11400 6025
+Wire Wire Line
+	11375 5875 11375 6025
+Wire Wire Line
+	11400 5875 11375 5875
+Wire Wire Line
+	11400 5825 11400 5875
+Wire Wire Line
+	11375 5825 11400 5825
+Wire Wire Line
+	11375 5325 11375 5825
+Wire Wire Line
+	11850 5875 11850 6050
+Wire Wire Line
+	11875 5875 11850 5875
+Wire Wire Line
+	11875 5825 11875 5875
+Wire Wire Line
+	11850 5825 11875 5825
+Wire Wire Line
+	11850 5775 11850 5825
+Wire Wire Line
+	10925 5775 10925 5850
+Connection ~ 11850 6050
+Wire Wire Line
+	10125 6050 11850 6050
+Connection ~ 10925 5850
+Wire Wire Line
+	9250 5850 10925 5850
+Wire Wire Line
+	11650 5325 11375 5325
+Connection ~ 11375 5325
+Wire Wire Line
+	11375 5325 11125 5325
+Wire Wire Line
+	11375 5075 11375 5325
+Wire Wire Line
+	11400 5075 11375 5075
+Wire Wire Line
+	11400 5025 11400 5075
+Wire Wire Line
+	11375 5025 11400 5025
+Wire Wire Line
+	11375 4875 11375 5025
+Wire Wire Line
+	11400 4875 11375 4875
+Wire Wire Line
+	11400 4825 11400 4875
+Wire Wire Line
+	11375 4825 11400 4825
+Wire Wire Line
+	11375 4325 11375 4825
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D60DC8
+P 10975 5375
+AR Path="/61D60DC8" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D60DC8" Ref="K_53"  Part="1" 
+F 0 "K_53" H 10975 5608 60  0000 C CNN
+F 1 "KEYSW" H 10975 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10975 5375 60  0001 C CNN
+F 3 "" H 10975 5375 60  0000 C CNN
+F 4 "~" H 10975 5375 50  0001 C CNN "LCSC"
+	1    10975 5375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10925 5525 10925 5575
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D60DCF
+P 11800 5375
+AR Path="/61D60DCF" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D60DCF" Ref="K_54"  Part="1" 
+F 0 "K_54" H 11800 5608 60  0000 C CNN
+F 1 "KEYSW" H 11800 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 11800 5375 60  0001 C CNN
+F 3 "" H 11800 5375 60  0000 C CNN
+F 4 "~" H 11800 5375 50  0001 C CNN "LCSC"
+	1    11800 5375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	11850 5525 11850 5575
+Wire Wire Line
+	11850 5050 13550 5050
+Connection ~ 11850 5050
+Wire Wire Line
+	11850 4875 11850 5050
+Wire Wire Line
+	11875 4875 11850 4875
+Wire Wire Line
+	11875 4825 11875 4875
+Wire Wire Line
+	11850 4825 11875 4825
+Wire Wire Line
+	11850 4775 11850 4825
+Wire Wire Line
+	10925 4850 14150 4850
+Connection ~ 10925 4850
+Wire Wire Line
+	10925 4775 10925 4850
+Wire Wire Line
+	11650 4325 11375 4325
+Connection ~ 11375 4325
+Wire Wire Line
+	11375 4325 11375 4075
+Wire Wire Line
+	11125 4325 11375 4325
+Wire Wire Line
+	11400 4075 11375 4075
+Wire Wire Line
+	11400 4025 11400 4075
+Wire Wire Line
+	11375 4025 11400 4025
+Wire Wire Line
+	11375 3875 11375 4025
+Wire Wire Line
+	11400 3875 11375 3875
+Wire Wire Line
+	11400 3825 11400 3875
+Wire Wire Line
+	11375 3825 11400 3825
+Wire Wire Line
+	11375 3300 11375 3825
+Wire Wire Line
+	11850 4050 13550 4050
+Connection ~ 11850 4050
+Wire Wire Line
+	11850 3875 11850 4050
+Wire Wire Line
+	11875 3875 11850 3875
+Wire Wire Line
+	11875 3825 11875 3875
+Wire Wire Line
+	11850 3825 11875 3825
+Wire Wire Line
+	11850 3750 11850 3825
+Wire Wire Line
+	10925 3850 12600 3850
+Connection ~ 10925 3850
+Wire Wire Line
+	10925 3750 10925 3850
+Wire Wire Line
+	11650 3300 11375 3300
+Connection ~ 11375 3300
+Wire Wire Line
+	11375 3075 11375 3300
+Wire Wire Line
+	11400 3075 11375 3075
+Wire Wire Line
+	11400 3025 11400 3075
+Wire Wire Line
+	11375 3025 11400 3025
+Wire Wire Line
+	11375 2875 11375 3025
+Wire Wire Line
+	11400 2875 11375 2875
+Wire Wire Line
+	11400 2825 11400 2875
+Wire Wire Line
+	11375 2825 11400 2825
+Wire Wire Line
+	11375 2150 11375 2825
+Wire Wire Line
+	11825 2875 11825 3050
+Wire Wire Line
+	11850 2875 11825 2875
+Wire Wire Line
+	11850 2825 11850 2875
+Wire Wire Line
+	11825 2825 11850 2825
+Wire Wire Line
+	11825 2600 11825 2825
+Wire Wire Line
+	10925 2850 12600 2850
+Connection ~ 10925 2850
+Wire Wire Line
+	10925 2600 10925 2850
+Connection ~ 11825 3050
+Wire Wire Line
+	10125 3050 11825 3050
+Wire Wire Line
+	11375 2150 11625 2150
+Connection ~ 11375 2150
+Wire Wire Line
+	11125 2150 11375 2150
+Text Label 11375 1950 0    50   ~ 0
+B7
+Wire Wire Line
+	11375 1850 11375 2150
+Wire Wire Line
+	10125 5875 10125 6050
+Wire Wire Line
+	10150 5875 10125 5875
+Wire Wire Line
+	10150 5825 10150 5875
+Wire Wire Line
+	10125 5825 10150 5825
+Wire Wire Line
+	10125 5775 10125 5825
+Wire Wire Line
+	9675 5325 9925 5325
+Wire Wire Line
+	9675 5075 9675 5325
+Wire Wire Line
+	9700 5075 9675 5075
+Wire Wire Line
+	9700 5025 9700 5075
+Wire Wire Line
+	9675 5025 9700 5025
+Wire Wire Line
+	9675 4875 9675 5025
+Wire Wire Line
+	9700 4875 9675 4875
+Wire Wire Line
+	9700 4825 9700 4875
+Wire Wire Line
+	9675 4825 9700 4825
+Wire Wire Line
+	9675 4325 9675 4825
+Wire Wire Line
+	9250 5775 9250 5850
+Wire Wire Line
+	10125 5050 11850 5050
+Wire Wire Line
+	8425 5050 10125 5050
+Connection ~ 10125 5050
+Wire Wire Line
+	10125 4875 10125 5050
+Wire Wire Line
+	10150 4875 10125 4875
+Wire Wire Line
+	10150 4825 10150 4875
+Wire Wire Line
+	10125 4825 10150 4825
+Wire Wire Line
+	10125 4775 10125 4825
+Wire Wire Line
+	9925 4325 9675 4325
+Connection ~ 9675 4325
+Wire Wire Line
+	9675 4075 9675 4325
+Wire Wire Line
+	9250 4850 10925 4850
+Connection ~ 9250 4850
+Wire Wire Line
+	9250 4775 9250 4850
+Text Label 9675 1950 0    50   ~ 0
+B6
+Wire Wire Line
+	9700 4075 9675 4075
+Wire Wire Line
+	9700 4025 9700 4075
+Wire Wire Line
+	9675 4025 9700 4025
+Wire Wire Line
+	9675 3875 9675 4025
+Wire Wire Line
+	9700 3875 9675 3875
+Wire Wire Line
+	9700 3825 9700 3875
+Wire Wire Line
+	9675 3825 9700 3825
+Wire Wire Line
+	9675 3300 9675 3825
+Wire Wire Line
+	10125 4050 11850 4050
+Wire Wire Line
+	8425 4050 10125 4050
+Connection ~ 10125 4050
+Wire Wire Line
+	10125 3875 10125 4050
+Wire Wire Line
+	10150 3875 10125 3875
+Wire Wire Line
+	10150 3825 10150 3875
+Wire Wire Line
+	10125 3825 10150 3825
+Wire Wire Line
+	10125 3750 10125 3825
+Wire Wire Line
+	9925 3300 9675 3300
+Wire Wire Line
+	9425 3300 9675 3300
+Connection ~ 9675 3300
+Wire Wire Line
+	9700 2825 9675 2825
+Wire Wire Line
+	9700 2875 9700 2825
+Wire Wire Line
+	9675 2875 9700 2875
+Wire Wire Line
+	9675 3025 9675 2875
+Wire Wire Line
+	9700 3025 9675 3025
+Wire Wire Line
+	9700 3075 9700 3025
+Wire Wire Line
+	9675 3075 9700 3075
+Wire Wire Line
+	9675 3300 9675 3075
+Wire Wire Line
+	9225 3850 10925 3850
+Connection ~ 9225 3850
+Wire Wire Line
+	9225 3750 9225 3850
+Wire Wire Line
+	10125 2875 10125 3050
+Wire Wire Line
+	10150 2875 10125 2875
+Wire Wire Line
+	10150 2825 10150 2875
+Wire Wire Line
+	10125 2825 10150 2825
+Wire Wire Line
+	10125 2600 10125 2825
+Wire Wire Line
+	9225 2850 10925 2850
+Connection ~ 9225 2850
+Wire Wire Line
+	9225 2600 9225 2850
+Wire Wire Line
+	7975 6275 7975 6075
+Wire Wire Line
+	7525 6275 7975 6275
+Connection ~ 7975 6275
+Wire Wire Line
+	7975 6350 7975 6275
+Wire Wire Line
+	8225 6350 7975 6350
+Wire Wire Line
+	7525 6875 7525 7050
+Wire Wire Line
+	7550 6875 7525 6875
+Wire Wire Line
+	7550 6825 7550 6875
+Wire Wire Line
+	7525 6825 7550 6825
+Wire Wire Line
+	7525 6800 7525 6825
+Wire Wire Line
+	8000 6075 7975 6075
+Wire Wire Line
+	8000 6025 8000 6075
+Wire Wire Line
+	7975 6025 8000 6025
+Wire Wire Line
+	7975 5875 7975 6025
+Wire Wire Line
+	8000 5875 7975 5875
+Wire Wire Line
+	8000 5825 8000 5875
+Wire Wire Line
+	7975 5825 8000 5825
+Wire Wire Line
+	7975 5325 7975 5825
+Connection ~ 10125 6050
+Wire Wire Line
+	8425 6050 10125 6050
+Wire Wire Line
+	8425 5875 8425 6050
+Wire Wire Line
+	8450 5875 8425 5875
+Wire Wire Line
+	8450 5825 8450 5875
+Wire Wire Line
+	8425 5825 8450 5825
+Wire Wire Line
+	8425 5775 8425 5825
+Connection ~ 9250 5850
+Wire Wire Line
+	7525 5850 9250 5850
+Wire Wire Line
+	7525 5775 7525 5850
+Wire Wire Line
+	7975 5325 8225 5325
+Connection ~ 7975 5325
+Wire Wire Line
+	7725 5325 7975 5325
+Wire Wire Line
+	8000 4825 7975 4825
+Wire Wire Line
+	7975 5075 7975 5325
+Wire Wire Line
+	8000 5075 7975 5075
+Wire Wire Line
+	8000 5025 8000 5075
+Wire Wire Line
+	7975 5025 8000 5025
+Wire Wire Line
+	7975 4875 7975 5025
+Wire Wire Line
+	8000 4875 7975 4875
+Wire Wire Line
+	8000 4825 8000 4875
+Wire Wire Line
+	7975 4325 7975 4825
+Wire Wire Line
+	7725 4325 7975 4325
+Connection ~ 7975 4325
+Wire Wire Line
+	7975 4325 8225 4325
+Wire Wire Line
+	7975 2150 8225 2150
+Wire Wire Line
+	8425 4775 8425 4825
+Wire Wire Line
+	8425 4875 8425 5050
+Wire Wire Line
+	8450 4875 8425 4875
+Wire Wire Line
+	8450 4825 8450 4875
+Wire Wire Line
+	8425 4825 8450 4825
+Wire Wire Line
+	7525 4850 9250 4850
+Connection ~ 7525 4850
+Wire Wire Line
+	7525 4775 7525 4850
+Wire Wire Line
+	7975 4075 7975 4325
+Wire Wire Line
+	8000 4075 7975 4075
+Wire Wire Line
+	8000 4025 8000 4075
+Wire Wire Line
+	7975 4025 8000 4025
+Wire Wire Line
+	7975 3875 7975 4025
+Wire Wire Line
+	8000 3875 7975 3875
+Wire Wire Line
+	8000 3825 8000 3875
+Wire Wire Line
+	7975 3825 8000 3825
+Wire Wire Line
+	7975 3300 7975 3825
+Wire Wire Line
+	8425 3875 8425 4050
+Wire Wire Line
+	8450 3875 8425 3875
+Wire Wire Line
+	8450 3825 8450 3875
+Wire Wire Line
+	8425 3825 8450 3825
+Wire Wire Line
+	8425 3750 8425 3825
+Wire Wire Line
+	7525 3850 9225 3850
+Connection ~ 7525 3850
+Wire Wire Line
+	7525 3750 7525 3850
+Wire Wire Line
+	7975 3300 8225 3300
+Wire Wire Line
+	7725 3300 7975 3300
+Connection ~ 7975 3300
+Wire Wire Line
+	7975 3075 7975 3300
+Wire Wire Line
+	8000 3075 7975 3075
+Wire Wire Line
+	8000 3025 8000 3075
+Wire Wire Line
+	7975 3025 8000 3025
+Wire Wire Line
+	7975 2875 7975 3025
+Wire Wire Line
+	8000 2875 7975 2875
+Wire Wire Line
+	8000 2825 8000 2875
+Wire Wire Line
+	7975 2825 8000 2825
+Connection ~ 7525 7050
+Wire Wire Line
+	3325 7050 7525 7050
+Connection ~ 8425 6050
+Wire Wire Line
+	6725 6050 8425 6050
+Connection ~ 7525 5850
+Wire Wire Line
+	5825 5850 7525 5850
+Connection ~ 8425 5050
+Wire Wire Line
+	6725 5050 8425 5050
+Connection ~ 8425 4050
+Wire Wire Line
+	6725 4050 8425 4050
+Connection ~ 10125 3050
+Wire Wire Line
+	8425 3050 10125 3050
+Wire Wire Line
+	8425 2875 8425 3050
+Wire Wire Line
+	8450 2875 8425 2875
+Wire Wire Line
+	8450 2825 8450 2875
+Wire Wire Line
+	8425 2825 8450 2825
+Wire Wire Line
+	8425 2600 8425 2825
+Connection ~ 8425 3050
+Wire Wire Line
+	6725 3050 8425 3050
+Wire Wire Line
+	7525 2850 9225 2850
+Connection ~ 7525 2850
+Wire Wire Line
+	7525 2600 7525 2850
+Wire Wire Line
+	4575 6275 4575 6075
+Wire Wire Line
+	4125 6800 4125 6850
+Wire Wire Line
+	4575 6275 4125 6275
+Wire Wire Line
+	6275 5325 6525 5325
+Wire Wire Line
+	6275 5325 6275 5075
+Connection ~ 6275 5325
+Wire Wire Line
+	6025 5325 6275 5325
+Wire Wire Line
+	6725 5875 6725 6050
+Wire Wire Line
+	6750 5875 6725 5875
+Wire Wire Line
+	6750 5825 6750 5875
+Wire Wire Line
+	6725 5825 6750 5825
+Wire Wire Line
+	6725 5775 6725 5825
+Wire Wire Line
+	5825 5775 5825 5850
+Connection ~ 6725 6050
+Wire Wire Line
+	5025 6050 6725 6050
+Connection ~ 5825 5850
+Wire Wire Line
+	4125 5850 5825 5850
+Wire Wire Line
+	6300 5075 6275 5075
+Wire Wire Line
+	6300 5025 6300 5075
+Wire Wire Line
+	6275 5025 6300 5025
+Wire Wire Line
+	6275 4875 6275 5025
+Wire Wire Line
+	6300 4875 6275 4875
+Wire Wire Line
+	6300 4825 6300 4875
+Wire Wire Line
+	6275 4825 6300 4825
+Wire Wire Line
+	6275 4325 6275 4825
+Wire Wire Line
+	6275 4325 6525 4325
+Connection ~ 6275 4325
+Wire Wire Line
+	6275 4075 6275 4325
+Wire Wire Line
+	6725 4875 6725 5050
+Wire Wire Line
+	6750 4875 6725 4875
+Wire Wire Line
+	6750 4825 6750 4875
+Wire Wire Line
+	6725 4825 6750 4825
+Wire Wire Line
+	6725 4775 6725 4825
+Wire Wire Line
+	5825 4850 7525 4850
+Connection ~ 5825 4850
+Wire Wire Line
+	5825 4775 5825 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D60EE5
+P 5875 4375
+AR Path="/61D60EE5" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D60EE5" Ref="K_36"  Part="1" 
+F 0 "K_36" H 5875 4608 60  0000 C CNN
+F 1 "KEYSW" H 5875 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 5875 4375 60  0001 C CNN
+F 3 "" H 5875 4375 60  0000 C CNN
+F 4 "~" H 5875 4375 50  0001 C CNN "LCSC"
+	1    5875 4375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D60EEB
+P 5825 4675
+AR Path="/61D60EEB" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D60EEB" Ref="D_34"  Part="1" 
+F 0 "D_34" V 5895 4575 50  0000 R CNN
+F 1 "D" V 5805 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 5525 4625 50  0001 C CNN
+F 3 "~" H 5525 4625 50  0001 C CNN
+F 4 "C109000" H 5825 4675 50  0001 C CNN "LCSC"
+	1    5825 4675
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5825 4525 5825 4575
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D60EF2
+P 6675 4375
+AR Path="/61D60EF2" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D60EF2" Ref="K_37"  Part="1" 
+F 0 "K_37" H 6675 4608 60  0000 C CNN
+F 1 "KEYSW" H 6675 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 6675 4375 60  0001 C CNN
+F 3 "" H 6675 4375 60  0000 C CNN
+F 4 "~" H 6675 4375 50  0001 C CNN "LCSC"
+	1    6675 4375
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D60EF8
+P 6725 4675
+AR Path="/61D60EF8" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D60EF8" Ref="D_35"  Part="1" 
+F 0 "D_35" V 6795 4575 50  0000 R CNN
+F 1 "D" V 6705 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 6425 4625 50  0001 C CNN
+F 3 "~" H 6425 4625 50  0001 C CNN
+F 4 "C109000" H 6725 4675 50  0001 C CNN "LCSC"
+	1    6725 4675
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6725 4525 6725 4575
+Wire Wire Line
+	6025 4325 6275 4325
+Connection ~ 6725 5050
+Wire Wire Line
+	5025 5050 6725 5050
+Wire Wire Line
+	6300 4075 6275 4075
+Wire Wire Line
+	6300 4025 6300 4075
+Wire Wire Line
+	6275 4025 6300 4025
+Wire Wire Line
+	6275 3875 6275 4025
+Wire Wire Line
+	6300 3875 6275 3875
+Wire Wire Line
+	6300 3825 6300 3875
+Wire Wire Line
+	6275 3825 6300 3825
+Wire Wire Line
+	6275 3350 6275 3825
+Wire Wire Line
+	6725 3875 6725 4050
+Wire Wire Line
+	6750 3875 6725 3875
+Wire Wire Line
+	6750 3825 6750 3875
+Wire Wire Line
+	6725 3825 6750 3825
+Wire Wire Line
+	6725 3800 6725 3825
+Connection ~ 6725 4050
+Wire Wire Line
+	5025 4050 6725 4050
+Wire Wire Line
+	5825 3850 7525 3850
+Connection ~ 5825 3850
+Wire Wire Line
+	5825 3850 5825 3800
+Wire Wire Line
+	6275 3350 6525 3350
+Connection ~ 6275 3350
+Wire Wire Line
+	6275 3075 6275 3350
+Wire Wire Line
+	6025 3350 6275 3350
+Wire Wire Line
+	6275 3025 6300 3025
+Wire Wire Line
+	6275 2875 6275 3025
+Wire Wire Line
+	6300 2875 6275 2875
+Wire Wire Line
+	6300 2825 6300 2875
+Wire Wire Line
+	6275 2825 6300 2825
+Wire Wire Line
+	6725 2875 6725 3050
+Wire Wire Line
+	6750 2875 6725 2875
+Wire Wire Line
+	6750 2825 6750 2875
+Wire Wire Line
+	6725 2825 6750 2825
+Wire Wire Line
+	6725 2600 6725 2825
+Wire Wire Line
+	5825 2850 7525 2850
+Connection ~ 5825 2850
+Wire Wire Line
+	5825 2850 5825 2600
+Text Label 7975 1950 0    50   ~ 0
+C6
+Text Label 6275 1950 0    50   ~ 0
+B4
+Wire Wire Line
+	6275 2150 6275 2825
+Wire Wire Line
+	6275 1850 6275 2150
+Connection ~ 6275 2150
+Wire Wire Line
+	6275 2150 6525 2150
+Wire Wire Line
+	6025 2150 6275 2150
+Wire Wire Line
+	3325 6875 3325 7050
+Wire Wire Line
+	3350 6875 3325 6875
+Wire Wire Line
+	3350 6825 3350 6875
+Wire Wire Line
+	3325 6825 3350 6825
+Wire Wire Line
+	3325 6800 3325 6825
+Connection ~ 3325 7050
+Wire Wire Line
+	1975 7050 3325 7050
+Connection ~ 4125 6850
+Wire Wire Line
+	2425 6850 4125 6850
+Wire Wire Line
+	2425 6800 2425 6850
+Wire Wire Line
+	2875 6275 2875 6350
+Wire Wire Line
+	3325 6275 2875 6275
+Connection ~ 2875 6275
+Wire Wire Line
+	2875 6075 2875 6275
+Wire Wire Line
+	2625 6350 2875 6350
+Connection ~ 2425 6850
+Wire Wire Line
+	1975 6850 2425 6850
+Text Label 2025 7050 0    50   ~ 0
+B1
+Text Label 2025 6850 0    50   ~ 0
+B0
+Text GLabel 1975 7050 0    50   Input ~ 0
+row9
+Wire Wire Line
+	4125 5800 4125 5850
+Wire Wire Line
+	4575 5350 4575 5825
+Wire Wire Line
+	4600 6075 4575 6075
+Wire Wire Line
+	4600 6025 4600 6075
+Wire Wire Line
+	4575 6025 4600 6025
+Wire Wire Line
+	4575 5875 4575 6025
+Wire Wire Line
+	4600 5875 4575 5875
+Wire Wire Line
+	4600 5825 4600 5875
+Wire Wire Line
+	4575 5825 4600 5825
+Wire Wire Line
+	5025 5875 5025 6050
+Wire Wire Line
+	5050 5875 5025 5875
+Wire Wire Line
+	5050 5825 5050 5875
+Wire Wire Line
+	5025 5825 5050 5825
+Wire Wire Line
+	5025 5800 5025 5825
+Wire Wire Line
+	4575 5350 4825 5350
+Connection ~ 4575 5350
+Wire Wire Line
+	4325 5350 4575 5350
+Wire Wire Line
+	4575 5075 4575 5350
+Text Label 2025 6050 0    50   ~ 0
+D6
+Text Label 2025 5850 0    50   ~ 0
+D5
+Wire Wire Line
+	2425 4250 2875 4250
+Wire Wire Line
+	2200 4575 2200 4525
+Wire Wire Line
+	2650 4525 2650 4575
+Wire Wire Line
+	2425 4325 2450 4325
+Wire Wire Line
+	2400 4325 2425 4325
+Connection ~ 2425 4325
+Wire Wire Line
+	2425 4250 2425 4325
+Wire Wire Line
+	2900 6075 2875 6075
+Wire Wire Line
+	2900 6025 2900 6075
+Wire Wire Line
+	2875 6025 2900 6025
+Wire Wire Line
+	2875 5875 2875 6025
+Wire Wire Line
+	2900 5875 2875 5875
+Wire Wire Line
+	2900 5825 2900 5875
+Wire Wire Line
+	2875 5825 2900 5825
+Connection ~ 5025 6050
+Connection ~ 4125 5850
+Wire Wire Line
+	2425 5850 4125 5850
+Text GLabel 1975 6050 0    50   Input ~ 0
+row7
+Wire Wire Line
+	2425 5850 2425 5800
+Connection ~ 2425 5850
+Wire Wire Line
+	1975 5850 2425 5850
+Wire Wire Line
+	2875 5275 2875 5075
+Connection ~ 2875 5275
+Wire Wire Line
+	2625 5275 2875 5275
+Wire Wire Line
+	5025 4875 5025 5050
+Wire Wire Line
+	5050 4875 5025 4875
+Wire Wire Line
+	5050 4825 5050 4875
+Wire Wire Line
+	5025 4825 5050 4825
+Wire Wire Line
+	5025 4775 5025 4825
+Wire Wire Line
+	4125 4850 5825 4850
+Connection ~ 4125 4850
+Wire Wire Line
+	4125 4775 4125 4850
+Wire Wire Line
+	4600 5075 4575 5075
+Wire Wire Line
+	4600 5025 4600 5075
+Wire Wire Line
+	4575 5025 4600 5025
+Wire Wire Line
+	4575 4875 4575 5025
+Wire Wire Line
+	4600 4875 4575 4875
+Wire Wire Line
+	4600 4825 4600 4875
+Wire Wire Line
+	4575 4825 4600 4825
+Wire Wire Line
+	4575 4325 4575 4825
+Wire Wire Line
+	4575 4325 4825 4325
+Connection ~ 4575 4325
+Wire Wire Line
+	4575 4075 4575 4325
+Wire Wire Line
+	4325 4325 4575 4325
+Text Label 2025 5050 0    50   ~ 0
+D4
+Text Label 2025 4850 0    50   ~ 0
+D3
+Wire Wire Line
+	2900 5075 2875 5075
+Wire Wire Line
+	2900 5025 2900 5075
+Wire Wire Line
+	2875 5025 2900 5025
+Wire Wire Line
+	2875 4875 2875 5025
+Wire Wire Line
+	2900 4875 2875 4875
+Wire Wire Line
+	2900 4825 2900 4875
+Wire Wire Line
+	2875 4825 2900 4825
+Wire Wire Line
+	1975 4850 2425 4850
+Wire Wire Line
+	2425 4850 4125 4850
+Connection ~ 2425 4850
+Wire Wire Line
+	2425 4775 2425 4850
+Connection ~ 5025 5050
+Wire Wire Line
+	3325 5050 5025 5050
+Wire Wire Line
+	3325 4875 3325 5050
+Wire Wire Line
+	3350 4875 3325 4875
+Wire Wire Line
+	3350 4825 3350 4875
+Wire Wire Line
+	3325 4825 3350 4825
+Wire Wire Line
+	3325 4775 3325 4825
+Connection ~ 3325 5050
+Wire Wire Line
+	1975 5050 3325 5050
+Connection ~ 2875 4250
+Wire Wire Line
+	2875 4075 2875 4250
+Wire Wire Line
+	2875 4250 2875 4325
+Wire Wire Line
+	2875 4325 2875 4825
+Connection ~ 2875 4325
+Wire Wire Line
+	2875 4325 3125 4325
+Text GLabel 1975 5050 0    50   Input ~ 0
+row5
+Wire Wire Line
+	4600 4075 4575 4075
+Wire Wire Line
+	4600 4025 4600 4075
+Wire Wire Line
+	4575 4025 4600 4025
+Wire Wire Line
+	4575 3875 4575 4025
+Wire Wire Line
+	4600 3875 4575 3875
+Wire Wire Line
+	4600 3825 4600 3875
+Wire Wire Line
+	4575 3825 4600 3825
+Wire Wire Line
+	4575 3350 4575 3825
+Wire Wire Line
+	5025 3875 5025 4050
+Wire Wire Line
+	5050 3875 5025 3875
+Wire Wire Line
+	5050 3825 5050 3875
+Wire Wire Line
+	5025 3825 5050 3825
+Wire Wire Line
+	5025 3800 5025 3825
+Connection ~ 5025 4050
+Wire Wire Line
+	3325 4050 5025 4050
+Wire Wire Line
+	4125 3850 5825 3850
+Wire Wire Line
+	2425 3850 4125 3850
+Connection ~ 4125 3850
+Wire Wire Line
+	4125 3850 4125 3800
+Wire Wire Line
+	4575 3350 4825 3350
+Connection ~ 4575 3350
+Wire Wire Line
+	4575 3075 4575 3350
+Wire Wire Line
+	4325 3350 4575 3350
+Wire Wire Line
+	4600 3075 4575 3075
+Wire Wire Line
+	4600 3025 4600 3075
+Wire Wire Line
+	4575 3025 4600 3025
+Wire Wire Line
+	4575 2875 4575 3025
+Wire Wire Line
+	4600 2875 4575 2875
+Wire Wire Line
+	4600 2825 4600 2875
+Wire Wire Line
+	4575 2825 4600 2825
+Wire Wire Line
+	2900 4075 2875 4075
+Wire Wire Line
+	2900 4025 2900 4075
+Wire Wire Line
+	2875 4025 2900 4025
+Wire Wire Line
+	2875 3875 2875 4025
+Wire Wire Line
+	2900 3875 2875 3875
+Wire Wire Line
+	2900 3825 2900 3875
+Wire Wire Line
+	2875 3825 2900 3825
+Wire Wire Line
+	2875 3350 2875 3825
+Wire Wire Line
+	2875 3350 3125 3350
+Connection ~ 2875 3350
+Wire Wire Line
+	2875 3075 2875 3350
+Wire Wire Line
+	2900 3075 2875 3075
+Wire Wire Line
+	2900 3025 2900 3075
+Wire Wire Line
+	2875 3025 2900 3025
+Wire Wire Line
+	2875 2875 2875 3025
+Wire Wire Line
+	2900 2875 2875 2875
+Wire Wire Line
+	2900 2825 2900 2875
+Wire Wire Line
+	2875 2825 2900 2825
+Wire Wire Line
+	2875 2150 2875 2825
+Wire Wire Line
+	2625 3350 2875 3350
+Wire Wire Line
+	2425 2600 2425 2850
+Wire Wire Line
+	5025 2875 5025 3050
+Wire Wire Line
+	5050 2875 5025 2875
+Wire Wire Line
+	5050 2825 5050 2875
+Wire Wire Line
+	5025 2825 5050 2825
+Wire Wire Line
+	5025 2600 5025 2825
+Wire Wire Line
+	3350 3050 5025 3050
+Wire Wire Line
+	3350 2875 3350 3050
+Wire Wire Line
+	3375 2875 3350 2875
+Wire Wire Line
+	3375 2825 3375 2875
+Wire Wire Line
+	3350 2825 3375 2825
+Wire Wire Line
+	3350 2600 3350 2825
+Connection ~ 3350 3050
+Wire Wire Line
+	1975 3050 3350 3050
+Wire Wire Line
+	3325 3875 3325 4050
+Wire Wire Line
+	3350 3875 3325 3875
+Wire Wire Line
+	3350 3825 3350 3875
+Wire Wire Line
+	3325 3825 3350 3825
+Wire Wire Line
+	3325 3800 3325 3825
+Connection ~ 3325 4050
+Wire Wire Line
+	1975 4050 3325 4050
+Wire Wire Line
+	7975 2150 7975 2825
+Wire Wire Line
+	7975 1850 7975 2150
+Connection ~ 7975 2150
+Wire Wire Line
+	8425 6600 8425 6550
+Wire Wire Line
+	7300 6600 7300 6550
+Wire Wire Line
+	8425 6600 7750 6600
+Connection ~ 7750 6600
+Wire Wire Line
+	7750 6600 7750 6550
+Wire Wire Line
+	7525 6350 7525 6275
+Wire Wire Line
+	7525 6350 7550 6350
+Connection ~ 7525 6350
+Wire Wire Line
+	7500 6350 7525 6350
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61001
+P 8375 4375
+AR Path="/61D61001" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61001" Ref="K_39"  Part="1" 
+F 0 "K_39" H 8375 4608 60  0000 C CNN
+F 1 "KEYSW" H 8375 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 8375 4375 60  0001 C CNN
+F 3 "" H 8375 4375 60  0000 C CNN
+F 4 "~" H 8375 4375 50  0001 C CNN "LCSC"
+	1    8375 4375
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61007
+P 8425 4675
+AR Path="/61D61007" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61007" Ref="D_37"  Part="1" 
+F 0 "D_37" V 8495 4575 50  0000 R CNN
+F 1 "D" V 8405 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8125 4625 50  0001 C CNN
+F 3 "~" H 8125 4625 50  0001 C CNN
+F 4 "C109000" H 8425 4675 50  0001 C CNN "LCSC"
+	1    8425 4675
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4350 6600 4350 6550
+Wire Wire Line
+	3900 6550 3900 6600
+Wire Wire Line
+	4125 6350 4100 6350
+Wire Wire Line
+	4125 6350 4125 6275
+Connection ~ 4125 6350
+Wire Wire Line
+	4150 6350 4125 6350
+Wire Wire Line
+	3325 6350 3350 6350
+Wire Wire Line
+	3325 6350 3325 6275
+Wire Wire Line
+	3100 6600 3100 6550
+Wire Wire Line
+	3550 6600 3550 6550
+Connection ~ 3325 6350
+Wire Wire Line
+	3300 6350 3325 6350
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61028
+P 2425 5700
+AR Path="/61D61028" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61028" Ref="D_53"  Part="1" 
+F 0 "D_53" V 2495 5600 50  0000 R CNN
+F 1 "D" V 2405 5600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 2125 5650 50  0001 C CNN
+F 3 "~" H 2125 5650 50  0001 C CNN
+F 4 "C109000" H 2425 5700 50  0001 C CNN "LCSC"
+	1    2425 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6102E
+P 2475 5400
+AR Path="/61D6102E" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6102E" Ref="K_59"  Part="1" 
+F 0 "K_59" H 2475 5633 60  0000 C CNN
+F 1 "KEYSW" H 2475 5300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_2.25U" H 2475 5400 60  0001 C CNN
+F 3 "" H 2475 5400 60  0000 C CNN
+F 4 "~" H 2475 5400 50  0001 C CNN "LCSC"
+	1    2475 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6103A
+P 3275 3400
+AR Path="/61D6103A" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6103A" Ref="K_26"  Part="1" 
+F 0 "K_26" H 3275 3633 60  0000 C CNN
+F 1 "KEYSW" H 3275 3300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 3275 3400 60  0001 C CNN
+F 3 "" H 3275 3400 60  0000 C CNN
+F 4 "~" H 3275 3400 50  0001 C CNN "LCSC"
+	1    3275 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61040
+P 3325 3700
+AR Path="/61D61040" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61040" Ref="D_25"  Part="1" 
+F 0 "D_25" V 3395 3600 50  0000 R CNN
+F 1 "D" V 3305 3600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3025 3650 50  0001 C CNN
+F 3 "~" H 3025 3650 50  0001 C CNN
+F 4 "C109000" H 3325 3700 50  0001 C CNN "LCSC"
+	1    3325 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3325 3550 3325 3600
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61047
+P 4175 3400
+AR Path="/61D61047" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61047" Ref="K_27"  Part="1" 
+F 0 "K_27" H 4175 3633 60  0000 C CNN
+F 1 "KEYSW" H 4175 3300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4175 3400 60  0001 C CNN
+F 3 "" H 4175 3400 60  0000 C CNN
+F 4 "~" H 4175 3400 50  0001 C CNN "LCSC"
+	1    4175 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6104D
+P 4125 3700
+AR Path="/61D6104D" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6104D" Ref="D_26"  Part="1" 
+F 0 "D_26" V 4195 3600 50  0000 R CNN
+F 1 "D" V 4105 3600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3825 3650 50  0001 C CNN
+F 3 "~" H 3825 3650 50  0001 C CNN
+F 4 "C109000" H 4125 3700 50  0001 C CNN "LCSC"
+	1    4125 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4125 3550 4125 3600
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61054
+P 4975 3400
+AR Path="/61D61054" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61054" Ref="K_28"  Part="1" 
+F 0 "K_28" H 4975 3633 60  0000 C CNN
+F 1 "KEYSW" H 4975 3300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4975 3400 60  0001 C CNN
+F 3 "" H 4975 3400 60  0000 C CNN
+F 4 "~" H 4975 3400 50  0001 C CNN "LCSC"
+	1    4975 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6105A
+P 5025 3700
+AR Path="/61D6105A" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6105A" Ref="D_27"  Part="1" 
+F 0 "D_27" V 5095 3600 50  0000 R CNN
+F 1 "D" V 5005 3600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 4725 3650 50  0001 C CNN
+F 3 "~" H 4725 3650 50  0001 C CNN
+F 4 "C109000" H 5025 3700 50  0001 C CNN "LCSC"
+	1    5025 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5025 3550 5025 3600
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61061
+P 5875 3400
+AR Path="/61D61061" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61061" Ref="K_29"  Part="1" 
+F 0 "K_29" H 5875 3633 60  0000 C CNN
+F 1 "KEYSW" H 5875 3300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 5875 3400 60  0001 C CNN
+F 3 "" H 5875 3400 60  0000 C CNN
+F 4 "~" H 5875 3400 50  0001 C CNN "LCSC"
+	1    5875 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61067
+P 5825 3700
+AR Path="/61D61067" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61067" Ref="D_28"  Part="1" 
+F 0 "D_28" V 5895 3600 50  0000 R CNN
+F 1 "D" V 5805 3600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 5525 3650 50  0001 C CNN
+F 3 "~" H 5525 3650 50  0001 C CNN
+F 4 "C109000" H 5825 3700 50  0001 C CNN "LCSC"
+	1    5825 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5825 3550 5825 3600
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6106E
+P 6675 3400
+AR Path="/61D6106E" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6106E" Ref="K_30"  Part="1" 
+F 0 "K_30" H 6675 3633 60  0000 C CNN
+F 1 "KEYSW" H 6675 3300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 6675 3400 60  0001 C CNN
+F 3 "" H 6675 3400 60  0000 C CNN
+F 4 "~" H 6675 3400 50  0001 C CNN "LCSC"
+	1    6675 3400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61074
+P 6725 3700
+AR Path="/61D61074" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61074" Ref="D_29"  Part="1" 
+F 0 "D_29" V 6795 3600 50  0000 R CNN
+F 1 "D" V 6705 3600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 6425 3650 50  0001 C CNN
+F 3 "~" H 6425 3650 50  0001 C CNN
+F 4 "C109000" H 6725 3700 50  0001 C CNN "LCSC"
+	1    6725 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6725 3550 6725 3600
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6107B
+P 7575 3350
+AR Path="/61D6107B" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6107B" Ref="K_17"  Part="1" 
+F 0 "K_17" H 7575 3583 60  0000 C CNN
+F 1 "KEYSW" H 7575 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 7575 3350 60  0001 C CNN
+F 3 "" H 7575 3350 60  0000 C CNN
+F 4 "~" H 7575 3350 50  0001 C CNN "LCSC"
+	1    7575 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61081
+P 7525 3650
+AR Path="/61D61081" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61081" Ref="D_16"  Part="1" 
+F 0 "D_16" V 7595 3550 50  0000 R CNN
+F 1 "D" V 7505 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 7225 3600 50  0001 C CNN
+F 3 "~" H 7225 3600 50  0001 C CNN
+F 4 "C109000" H 7525 3650 50  0001 C CNN "LCSC"
+	1    7525 3650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7525 3500 7525 3550
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61088
+P 8375 6400
+AR Path="/61D61088" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61088" Ref="K_70"  Part="1" 
+F 0 "K_70" H 8375 6633 60  0000 C CNN
+F 1 "KEYSW" H 8375 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_6.25U" H 8375 6400 60  0001 C CNN
+F 3 "" H 8375 6400 60  0000 C CNN
+F 4 "~" H 8375 6400 50  0001 C CNN "LCSC"
+	1    8375 6400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	7525 6600 7300 6600
+Wire Wire Line
+	7525 6600 7750 6600
+Connection ~ 7525 6600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61097
+P 7525 6700
+AR Path="/61D61097" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61097" Ref="D_60"  Part="1" 
+F 0 "D_60" V 7595 6600 50  0000 R CNN
+F 1 "D" V 7505 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 7225 6650 50  0001 C CNN
+F 3 "~" H 7225 6650 50  0001 C CNN
+F 4 "C109000" H 7525 6700 50  0001 C CNN "LCSC"
+	1    7525 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6109D
+P 4300 6400
+AR Path="/61D6109D" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6109D" Ref="K_67"  Part="1" 
+F 0 "K_67" H 4300 6633 60  0000 C CNN
+F 1 "KEYSW" H 4300 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U" H 4300 6400 60  0001 C CNN
+F 3 "" H 4300 6400 60  0000 C CNN
+F 4 "~" H 4300 6400 50  0001 C CNN "LCSC"
+	1    4300 6400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4125 6600 4350 6600
+Wire Wire Line
+	3900 6600 4125 6600
+Connection ~ 4125 6600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610A6
+P 4125 6700
+AR Path="/61D610A6" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610A6" Ref="D_59"  Part="1" 
+F 0 "D_59" V 4195 6600 50  0000 R CNN
+F 1 "D" V 4105 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3825 6650 50  0001 C CNN
+F 3 "~" H 3825 6650 50  0001 C CNN
+F 4 "C109000" H 4125 6700 50  0001 C CNN "LCSC"
+	1    4125 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610AC
+P 3950 6400
+AR Path="/61D610AC" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610AC" Ref="K_66"  Part="1" 
+F 0 "K_66" H 3950 6633 60  0000 C CNN
+F 1 "KEYSW" H 3950 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U_SILK" H 3950 6400 60  0001 C CNN
+F 3 "" H 3950 6400 60  0000 C CNN
+F 4 "~" H 3950 6400 50  0001 C CNN "LCSC"
+	1    3950 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610B2
+P 3150 6400
+AR Path="/61D610B2" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610B2" Ref="K_64"  Part="1" 
+F 0 "K_64" H 3150 6633 60  0000 C CNN
+F 1 "KEYSW" H 3150 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U_SILK" H 3150 6400 60  0001 C CNN
+F 3 "" H 3150 6400 60  0000 C CNN
+F 4 "~" H 3150 6400 50  0001 C CNN "LCSC"
+	1    3150 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3325 6600 3100 6600
+Wire Wire Line
+	3325 6600 3550 6600
+Connection ~ 3325 6600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610BB
+P 3325 6700
+AR Path="/61D610BB" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610BB" Ref="D_58"  Part="1" 
+F 0 "D_58" V 3395 6600 50  0000 R CNN
+F 1 "D" V 3305 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3025 6650 50  0001 C CNN
+F 3 "~" H 3025 6650 50  0001 C CNN
+F 4 "C109000" H 3325 6700 50  0001 C CNN "LCSC"
+	1    3325 6700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610C1
+P 3500 6400
+AR Path="/61D610C1" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610C1" Ref="K_65"  Part="1" 
+F 0 "K_65" H 3500 6633 60  0000 C CNN
+F 1 "KEYSW" H 3500 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.25U" H 3500 6400 60  0001 C CNN
+F 3 "" H 3500 6400 60  0000 C CNN
+F 4 "~" H 3500 6400 50  0001 C CNN "LCSC"
+	1    3500 6400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2425 6550 2425 6600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610C8
+P 2425 6700
+AR Path="/61D610C8" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610C8" Ref="D_57"  Part="1" 
+F 0 "D_57" V 2495 6600 50  0000 R CNN
+F 1 "D" V 2405 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 2125 6650 50  0001 C CNN
+F 3 "~" H 2125 6650 50  0001 C CNN
+F 4 "C109000" H 2425 6700 50  0001 C CNN "LCSC"
+	1    2425 6700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8425 5525 8425 5575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610D5
+P 8425 5675
+AR Path="/61D610D5" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610D5" Ref="D_46"  Part="1" 
+F 0 "D_46" V 8495 5575 50  0000 R CNN
+F 1 "D" V 8405 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8125 5625 50  0001 C CNN
+F 3 "~" H 8125 5625 50  0001 C CNN
+F 4 "C109000" H 8425 5675 50  0001 C CNN "LCSC"
+	1    8425 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610DB
+P 8375 5375
+AR Path="/61D610DB" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610DB" Ref="K_50"  Part="1" 
+F 0 "K_50" H 8375 5608 60  0000 C CNN
+F 1 "KEYSW" H 8375 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 8375 5375 60  0001 C CNN
+F 3 "" H 8375 5375 60  0000 C CNN
+F 4 "~" H 8375 5375 50  0001 C CNN "LCSC"
+	1    8375 5375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	7525 5525 7525 5575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610E2
+P 7525 5675
+AR Path="/61D610E2" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610E2" Ref="D_45"  Part="1" 
+F 0 "D_45" V 7595 5575 50  0000 R CNN
+F 1 "D" V 7505 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 7225 5625 50  0001 C CNN
+F 3 "~" H 7225 5625 50  0001 C CNN
+F 4 "C109000" H 7525 5675 50  0001 C CNN "LCSC"
+	1    7525 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610E8
+P 7575 5375
+AR Path="/61D610E8" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610E8" Ref="K_49"  Part="1" 
+F 0 "K_49" H 7575 5608 60  0000 C CNN
+F 1 "KEYSW" H 7575 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 7575 5375 60  0001 C CNN
+F 3 "" H 7575 5375 60  0000 C CNN
+F 4 "~" H 7575 5375 50  0001 C CNN "LCSC"
+	1    7575 5375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6725 5525 6725 5575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610EF
+P 6725 5675
+AR Path="/61D610EF" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610EF" Ref="D_44"  Part="1" 
+F 0 "D_44" V 6795 5575 50  0000 R CNN
+F 1 "D" V 6705 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 6425 5625 50  0001 C CNN
+F 3 "~" H 6425 5625 50  0001 C CNN
+F 4 "C109000" H 6725 5675 50  0001 C CNN "LCSC"
+	1    6725 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610F5
+P 6675 5375
+AR Path="/61D610F5" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610F5" Ref="K_48"  Part="1" 
+F 0 "K_48" H 6675 5608 60  0000 C CNN
+F 1 "KEYSW" H 6675 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 6675 5375 60  0001 C CNN
+F 3 "" H 6675 5375 60  0000 C CNN
+F 4 "~" H 6675 5375 50  0001 C CNN "LCSC"
+	1    6675 5375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5825 5525 5825 5575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D610FC
+P 5825 5675
+AR Path="/61D610FC" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D610FC" Ref="D_43"  Part="1" 
+F 0 "D_43" V 5895 5575 50  0000 R CNN
+F 1 "D" V 5805 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 5525 5625 50  0001 C CNN
+F 3 "~" H 5525 5625 50  0001 C CNN
+F 4 "C109000" H 5825 5675 50  0001 C CNN "LCSC"
+	1    5825 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61102
+P 5875 5375
+AR Path="/61D61102" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61102" Ref="K_47"  Part="1" 
+F 0 "K_47" H 5875 5608 60  0000 C CNN
+F 1 "KEYSW" H 5875 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 5875 5375 60  0001 C CNN
+F 3 "" H 5875 5375 60  0000 C CNN
+F 4 "~" H 5875 5375 50  0001 C CNN "LCSC"
+	1    5875 5375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5025 5550 5025 5600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61109
+P 5025 5700
+AR Path="/61D61109" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61109" Ref="D_56"  Part="1" 
+F 0 "D_56" V 5095 5600 50  0000 R CNN
+F 1 "D" V 5005 5600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 4725 5650 50  0001 C CNN
+F 3 "~" H 4725 5650 50  0001 C CNN
+F 4 "C109000" H 5025 5700 50  0001 C CNN "LCSC"
+	1    5025 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6110F
+P 4975 5400
+AR Path="/61D6110F" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6110F" Ref="K_62"  Part="1" 
+F 0 "K_62" H 4975 5633 60  0000 C CNN
+F 1 "KEYSW" H 4975 5300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4975 5400 60  0001 C CNN
+F 3 "" H 4975 5400 60  0000 C CNN
+F 4 "~" H 4975 5400 50  0001 C CNN "LCSC"
+	1    4975 5400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4125 5550 4125 5600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61116
+P 4125 5700
+AR Path="/61D61116" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61116" Ref="D_55"  Part="1" 
+F 0 "D_55" V 4195 5600 50  0000 R CNN
+F 1 "D" V 4105 5600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3825 5650 50  0001 C CNN
+F 3 "~" H 3825 5650 50  0001 C CNN
+F 4 "C109000" H 4125 5700 50  0001 C CNN "LCSC"
+	1    4125 5700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6111C
+P 4175 5400
+AR Path="/61D6111C" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6111C" Ref="K_61"  Part="1" 
+F 0 "K_61" H 4175 5633 60  0000 C CNN
+F 1 "KEYSW" H 4175 5300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4175 5400 60  0001 C CNN
+F 3 "" H 4175 5400 60  0000 C CNN
+F 4 "~" H 4175 5400 50  0001 C CNN "LCSC"
+	1    4175 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8425 4525 8425 4575
+Wire Wire Line
+	7525 4525 7525 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61131
+P 7525 4675
+AR Path="/61D61131" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61131" Ref="D_36"  Part="1" 
+F 0 "D_36" V 7595 4575 50  0000 R CNN
+F 1 "D" V 7505 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 7225 4625 50  0001 C CNN
+F 3 "~" H 7225 4625 50  0001 C CNN
+F 4 "C109000" H 7525 4675 50  0001 C CNN "LCSC"
+	1    7525 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61137
+P 7575 4375
+AR Path="/61D61137" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61137" Ref="K_38"  Part="1" 
+F 0 "K_38" H 7575 4608 60  0000 C CNN
+F 1 "KEYSW" H 7575 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 7575 4375 60  0001 C CNN
+F 3 "" H 7575 4375 60  0000 C CNN
+F 4 "~" H 7575 4375 50  0001 C CNN "LCSC"
+	1    7575 4375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5025 4525 5025 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6113E
+P 5025 4675
+AR Path="/61D6113E" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6113E" Ref="D_33"  Part="1" 
+F 0 "D_33" V 5095 4575 50  0000 R CNN
+F 1 "D" V 5005 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 4725 4625 50  0001 C CNN
+F 3 "~" H 4725 4625 50  0001 C CNN
+F 4 "C109000" H 5025 4675 50  0001 C CNN "LCSC"
+	1    5025 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61144
+P 4975 4375
+AR Path="/61D61144" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61144" Ref="K_35"  Part="1" 
+F 0 "K_35" H 4975 4608 60  0000 C CNN
+F 1 "KEYSW" H 4975 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4975 4375 60  0001 C CNN
+F 3 "" H 4975 4375 60  0000 C CNN
+F 4 "~" H 4975 4375 50  0001 C CNN "LCSC"
+	1    4975 4375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4125 4525 4125 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6114B
+P 4125 4675
+AR Path="/61D6114B" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6114B" Ref="D_32"  Part="1" 
+F 0 "D_32" V 4195 4575 50  0000 R CNN
+F 1 "D" V 4105 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3825 4625 50  0001 C CNN
+F 3 "~" H 3825 4625 50  0001 C CNN
+F 4 "C109000" H 4125 4675 50  0001 C CNN "LCSC"
+	1    4125 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61151
+P 4175 4375
+AR Path="/61D61151" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61151" Ref="K_34"  Part="1" 
+F 0 "K_34" H 4175 4608 60  0000 C CNN
+F 1 "KEYSW" H 4175 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4175 4375 60  0001 C CNN
+F 3 "" H 4175 4375 60  0000 C CNN
+F 4 "~" H 4175 4375 50  0001 C CNN "LCSC"
+	1    4175 4375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3325 4525 3325 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61158
+P 3325 4675
+AR Path="/61D61158" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61158" Ref="D_31"  Part="1" 
+F 0 "D_31" V 3395 4575 50  0000 R CNN
+F 1 "D" V 3305 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3025 4625 50  0001 C CNN
+F 3 "~" H 3025 4625 50  0001 C CNN
+F 4 "C109000" H 3325 4675 50  0001 C CNN "LCSC"
+	1    3325 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6115E
+P 3275 4375
+AR Path="/61D6115E" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6115E" Ref="K_33"  Part="1" 
+F 0 "K_33" H 3275 4608 60  0000 C CNN
+F 1 "KEYSW" H 3275 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 3275 4375 60  0001 C CNN
+F 3 "" H 3275 4375 60  0000 C CNN
+F 4 "~" H 3275 4375 50  0001 C CNN "LCSC"
+	1    3275 4375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2425 4575 2200 4575
+Wire Wire Line
+	2650 4575 2425 4575
+Connection ~ 2425 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61167
+P 2425 4675
+AR Path="/61D61167" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61167" Ref="D_30"  Part="1" 
+F 0 "D_30" V 2495 4575 50  0000 R CNN
+F 1 "D" V 2405 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 2125 4625 50  0001 C CNN
+F 3 "~" H 2125 4625 50  0001 C CNN
+F 4 "C109000" H 2425 4675 50  0001 C CNN "LCSC"
+	1    2425 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6116D
+P 2600 4375
+AR Path="/61D6116D" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6116D" Ref="K_32"  Part="1" 
+F 0 "K_32" H 2600 4608 60  0000 C CNN
+F 1 "KEYSW" H 2600 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.25U" H 2600 4375 60  0001 C CNN
+F 3 "" H 2600 4375 60  0000 C CNN
+F 4 "~" H 2600 4375 50  0001 C CNN "LCSC"
+	1    2600 4375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	10125 3500 10125 3550
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61174
+P 10125 3650
+AR Path="/61D61174" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61174" Ref="D_19"  Part="1" 
+F 0 "D_19" V 10195 3550 50  0000 R CNN
+F 1 "D" V 10105 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 9825 3600 50  0001 C CNN
+F 3 "~" H 9825 3600 50  0001 C CNN
+F 4 "C109000" H 10125 3650 50  0001 C CNN "LCSC"
+	1    10125 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6117A
+P 10075 3350
+AR Path="/61D6117A" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6117A" Ref="K_20"  Part="1" 
+F 0 "K_20" H 10075 3583 60  0000 C CNN
+F 1 "KEYSW" H 10075 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10075 3350 60  0001 C CNN
+F 3 "" H 10075 3350 60  0000 C CNN
+F 4 "~" H 10075 3350 50  0001 C CNN "LCSC"
+	1    10075 3350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9225 3500 9225 3550
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61181
+P 9225 3650
+AR Path="/61D61181" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61181" Ref="D_18"  Part="1" 
+F 0 "D_18" V 9295 3550 50  0000 R CNN
+F 1 "D" V 9205 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8925 3600 50  0001 C CNN
+F 3 "~" H 8925 3600 50  0001 C CNN
+F 4 "C109000" H 9225 3650 50  0001 C CNN "LCSC"
+	1    9225 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61187
+P 9275 3350
+AR Path="/61D61187" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61187" Ref="K_19"  Part="1" 
+F 0 "K_19" H 9275 3583 60  0000 C CNN
+F 1 "KEYSW" H 9275 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 9275 3350 60  0001 C CNN
+F 3 "" H 9275 3350 60  0000 C CNN
+F 4 "~" H 9275 3350 50  0001 C CNN "LCSC"
+	1    9275 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8425 3500 8425 3550
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6118E
+P 8425 3650
+AR Path="/61D6118E" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6118E" Ref="D_17"  Part="1" 
+F 0 "D_17" V 8495 3550 50  0000 R CNN
+F 1 "D" V 8405 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8125 3600 50  0001 C CNN
+F 3 "~" H 8125 3600 50  0001 C CNN
+F 4 "C109000" H 8425 3650 50  0001 C CNN "LCSC"
+	1    8425 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61194
+P 8375 3350
+AR Path="/61D61194" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61194" Ref="K_18"  Part="1" 
+F 0 "K_18" H 8375 3583 60  0000 C CNN
+F 1 "KEYSW" H 8375 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 8375 3350 60  0001 C CNN
+F 3 "" H 8375 3350 60  0000 C CNN
+F 4 "~" H 8375 3350 50  0001 C CNN "LCSC"
+	1    8375 3350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	10125 2350 10125 2400
+Wire Wire Line
+	9675 2825 9675 2150
+Wire Wire Line
+	9675 1850 9675 2150
+Connection ~ 9675 2150
+Wire Wire Line
+	9675 2150 9925 2150
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6119F
+P 10125 2500
+AR Path="/61D6119F" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6119F" Ref="D_10"  Part="1" 
+F 0 "D_10" V 10195 2400 50  0000 R CNN
+F 1 "D" V 10105 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 9825 2450 50  0001 C CNN
+F 3 "~" H 9825 2450 50  0001 C CNN
+F 4 "C109000" H 10125 2500 50  0001 C CNN "LCSC"
+	1    10125 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D611A5
+P 10075 2200
+AR Path="/61D611A5" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D611A5" Ref="K_10"  Part="1" 
+F 0 "K_10" H 10075 2433 60  0000 C CNN
+F 1 "KEYSW" H 10075 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10075 2200 60  0001 C CNN
+F 3 "" H 10075 2200 60  0000 C CNN
+F 4 "~" H 10075 2200 50  0001 C CNN "LCSC"
+	1    10075 2200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9225 2350 9225 2400
+Wire Wire Line
+	9425 2150 9675 2150
+$Comp
+L Device:D_Small D_?
+U 1 1 61D611AD
+P 9225 2500
+AR Path="/61D611AD" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D611AD" Ref="D_9"  Part="1" 
+F 0 "D_9" V 9295 2400 50  0000 R CNN
+F 1 "D" V 9205 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8925 2450 50  0001 C CNN
+F 3 "~" H 8925 2450 50  0001 C CNN
+F 4 "C109000" H 9225 2500 50  0001 C CNN "LCSC"
+	1    9225 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D611B3
+P 9275 2200
+AR Path="/61D611B3" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D611B3" Ref="K_9"  Part="1" 
+F 0 "K_9" H 9275 2433 60  0000 C CNN
+F 1 "KEYSW" H 9275 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 9275 2200 60  0001 C CNN
+F 3 "" H 9275 2200 60  0000 C CNN
+F 4 "~" H 9275 2200 50  0001 C CNN "LCSC"
+	1    9275 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8425 2350 8425 2400
+$Comp
+L Device:D_Small D_?
+U 1 1 61D611BA
+P 8425 2500
+AR Path="/61D611BA" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D611BA" Ref="D_8"  Part="1" 
+F 0 "D_8" V 8495 2400 50  0000 R CNN
+F 1 "D" V 8405 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8125 2450 50  0001 C CNN
+F 3 "~" H 8125 2450 50  0001 C CNN
+F 4 "C109000" H 8425 2500 50  0001 C CNN "LCSC"
+	1    8425 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D611C0
+P 8375 2200
+AR Path="/61D611C0" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D611C0" Ref="K_8"  Part="1" 
+F 0 "K_8" H 8375 2433 60  0000 C CNN
+F 1 "KEYSW" H 8375 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U_USB" H 8375 2200 60  0001 C CNN
+F 3 "" H 8375 2200 60  0000 C CNN
+F 4 "~" H 8375 2200 50  0001 C CNN "LCSC"
+	1    8375 2200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	7525 2350 7525 2400
+Wire Wire Line
+	7725 2150 7975 2150
+$Comp
+L Device:D_Small D_?
+U 1 1 61D611C8
+P 7525 2500
+AR Path="/61D611C8" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D611C8" Ref="D_7"  Part="1" 
+F 0 "D_7" V 7595 2400 50  0000 R CNN
+F 1 "D" V 7505 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 7225 2450 50  0001 C CNN
+F 3 "~" H 7225 2450 50  0001 C CNN
+F 4 "C109000" H 7525 2500 50  0001 C CNN "LCSC"
+	1    7525 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D611CE
+P 7575 2200
+AR Path="/61D611CE" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D611CE" Ref="K_7"  Part="1" 
+F 0 "K_7" H 7575 2433 60  0000 C CNN
+F 1 "KEYSW" H 7575 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 7575 2200 60  0001 C CNN
+F 3 "" H 7575 2200 60  0000 C CNN
+F 4 "~" H 7575 2200 50  0001 C CNN "LCSC"
+	1    7575 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6725 2350 6725 2400
+$Comp
+L Device:D_Small D_?
+U 1 1 61D611D5
+P 6725 2500
+AR Path="/61D611D5" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D611D5" Ref="D_6"  Part="1" 
+F 0 "D_6" V 6795 2400 50  0000 R CNN
+F 1 "D" V 6705 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 6425 2450 50  0001 C CNN
+F 3 "~" H 6425 2450 50  0001 C CNN
+F 4 "C109000" H 6725 2500 50  0001 C CNN "LCSC"
+	1    6725 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D611DB
+P 6675 2200
+AR Path="/61D611DB" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D611DB" Ref="K_6"  Part="1" 
+F 0 "K_6" H 6675 2433 60  0000 C CNN
+F 1 "KEYSW" H 6675 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 6675 2200 60  0001 C CNN
+F 3 "" H 6675 2200 60  0000 C CNN
+F 4 "~" H 6675 2200 50  0001 C CNN "LCSC"
+	1    6675 2200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5825 2350 5825 2400
+$Comp
+L Device:D_Small D_?
+U 1 1 61D611E2
+P 5825 2500
+AR Path="/61D611E2" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D611E2" Ref="D_5"  Part="1" 
+F 0 "D_5" V 5895 2400 50  0000 R CNN
+F 1 "D" V 5805 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 5525 2450 50  0001 C CNN
+F 3 "~" H 5525 2450 50  0001 C CNN
+F 4 "C109000" H 5825 2500 50  0001 C CNN "LCSC"
+	1    5825 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D611E8
+P 5875 2200
+AR Path="/61D611E8" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D611E8" Ref="K_5"  Part="1" 
+F 0 "K_5" H 5875 2433 60  0000 C CNN
+F 1 "KEYSW" H 5875 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 5875 2200 60  0001 C CNN
+F 3 "" H 5875 2200 60  0000 C CNN
+F 4 "~" H 5875 2200 50  0001 C CNN "LCSC"
+	1    5875 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2425 3800 2425 3850
+Connection ~ 2425 2850
+Wire Wire Line
+	1975 2850 2425 2850
+Connection ~ 2425 3850
+Wire Wire Line
+	1975 3850 2425 3850
+Text Label 2050 4050 0    50   ~ 0
+D2
+Text Label 2050 3850 0    50   ~ 0
+D1
+Text Label 2025 3050 0    50   ~ 0
+D0
+Text Label 2025 2850 0    50   ~ 0
+C2
+Text GLabel 1975 4050 0    50   Input ~ 0
+row3
+Wire Wire Line
+	4100 2850 5825 2850
+Wire Wire Line
+	2425 2850 4100 2850
+Connection ~ 4100 2850
+Wire Wire Line
+	4100 2600 4100 2850
+Wire Wire Line
+	4575 2150 4575 2825
+Wire Wire Line
+	4575 1850 4575 2150
+Connection ~ 4575 2150
+Wire Wire Line
+	4300 2150 4575 2150
+Text Label 4575 1975 0    50   ~ 0
+B3
+Text Label 2875 1975 0    50   ~ 0
+B2
+Wire Wire Line
+	2875 2150 3150 2150
+Text GLabel 1975 3050 0    50   Input ~ 0
+row1
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61204
+P 3300 2200
+AR Path="/61D61204" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61204" Ref="K_2"  Part="1" 
+F 0 "K_2" H 3300 2433 60  0000 C CNN
+F 1 "KEYSW" H 3300 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 3300 2200 60  0001 C CNN
+F 3 "" H 3300 2200 60  0000 C CNN
+F 4 "~" H 3300 2200 50  0001 C CNN "LCSC"
+	1    3300 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6120A
+P 3350 2500
+AR Path="/61D6120A" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6120A" Ref="D_2"  Part="1" 
+F 0 "D_2" V 3420 2400 50  0000 R CNN
+F 1 "D" V 3330 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3050 2450 50  0001 C CNN
+F 3 "~" H 3050 2450 50  0001 C CNN
+F 4 "C109000" H 3350 2500 50  0001 C CNN "LCSC"
+	1    3350 2500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3350 2350 3350 2400
+Wire Wire Line
+	2425 2350 2425 2400
+Connection ~ 2875 2150
+Wire Wire Line
+	2625 2150 2875 2150
+Wire Wire Line
+	2875 1850 2875 2150
+Wire Wire Line
+	2425 3550 2425 3600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61222
+P 2425 3700
+AR Path="/61D61222" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61222" Ref="D_24"  Part="1" 
+F 0 "D_24" V 2495 3600 50  0000 R CNN
+F 1 "D" V 2405 3600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 2125 3650 50  0001 C CNN
+F 3 "~" H 2125 3650 50  0001 C CNN
+F 4 "C109000" H 2425 3700 50  0001 C CNN "LCSC"
+	1    2425 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61228
+P 2475 3400
+AR Path="/61D61228" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61228" Ref="K_25"  Part="1" 
+F 0 "K_25" H 2475 3633 60  0000 C CNN
+F 1 "KEYSW" H 2475 3300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U" H 2475 3400 60  0001 C CNN
+F 3 "" H 2475 3400 60  0000 C CNN
+F 4 "~" H 2475 3400 50  0001 C CNN "LCSC"
+	1    2475 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5025 2350 5025 2400
+Wire Wire Line
+	4575 2150 4825 2150
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61230
+P 5025 2500
+AR Path="/61D61230" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61230" Ref="D_4"  Part="1" 
+F 0 "D_4" V 5095 2400 50  0000 R CNN
+F 1 "D" V 5005 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 4725 2450 50  0001 C CNN
+F 3 "~" H 4725 2450 50  0001 C CNN
+F 4 "C109000" H 5025 2500 50  0001 C CNN "LCSC"
+	1    5025 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61236
+P 4975 2200
+AR Path="/61D61236" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61236" Ref="K_4"  Part="1" 
+F 0 "K_4" H 4975 2433 60  0000 C CNN
+F 1 "KEYSW" H 4975 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4975 2200 60  0001 C CNN
+F 3 "" H 4975 2200 60  0000 C CNN
+F 4 "~" H 4975 2200 50  0001 C CNN "LCSC"
+	1    4975 2200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 2350 4100 2400
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6123D
+P 4100 2500
+AR Path="/61D6123D" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6123D" Ref="D_3"  Part="1" 
+F 0 "D_3" V 4170 2400 50  0000 R CNN
+F 1 "D" V 4080 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 3800 2450 50  0001 C CNN
+F 3 "~" H 3800 2450 50  0001 C CNN
+F 4 "C109000" H 4100 2500 50  0001 C CNN "LCSC"
+	1    4100 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61243
+P 4150 2200
+AR Path="/61D61243" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61243" Ref="K_3"  Part="1" 
+F 0 "K_3" H 4150 2433 60  0000 C CNN
+F 1 "KEYSW" H 4150 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 4150 2200 60  0001 C CNN
+F 3 "" H 4150 2200 60  0000 C CNN
+F 4 "~" H 4150 2200 50  0001 C CNN "LCSC"
+	1    4150 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61249
+P 10975 2200
+AR Path="/61D61249" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61249" Ref="K_11"  Part="1" 
+F 0 "K_11" H 10975 2433 60  0000 C CNN
+F 1 "KEYSW" H 10975 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10975 2200 60  0001 C CNN
+F 3 "" H 10975 2200 60  0000 C CNN
+F 4 "~" H 10975 2200 50  0001 C CNN "LCSC"
+	1    10975 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6124F
+P 10925 2500
+AR Path="/61D6124F" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6124F" Ref="D_11"  Part="1" 
+F 0 "D_11" V 10995 2400 50  0000 R CNN
+F 1 "D" V 10905 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 10625 2450 50  0001 C CNN
+F 3 "~" H 10625 2450 50  0001 C CNN
+F 4 "C109000" H 10925 2500 50  0001 C CNN "LCSC"
+	1    10925 2500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10925 2350 10925 2400
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61263
+P 13500 2200
+AR Path="/61D61263" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61263" Ref="K_15"  Part="1" 
+F 0 "K_15" H 13500 2433 60  0000 C CNN
+F 1 "KEYSW" H 13500 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_2U" H 13500 2200 60  0001 C CNN
+F 3 "" H 13500 2200 60  0000 C CNN
+F 4 "~" H 13500 2200 50  0001 C CNN "LCSC"
+	1    13500 2200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	11825 2350 11825 2400
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6126A
+P 11825 2500
+AR Path="/61D6126A" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6126A" Ref="D_12"  Part="1" 
+F 0 "D_12" V 11895 2400 50  0000 R CNN
+F 1 "D" V 11805 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 11525 2450 50  0001 C CNN
+F 3 "~" H 11525 2450 50  0001 C CNN
+F 4 "C109000" H 11825 2500 50  0001 C CNN "LCSC"
+	1    11825 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61270
+P 11775 2200
+AR Path="/61D61270" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61270" Ref="K_12"  Part="1" 
+F 0 "K_12" H 11775 2433 60  0000 C CNN
+F 1 "KEYSW" H 11775 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 11775 2200 60  0001 C CNN
+F 3 "" H 11775 2200 60  0000 C CNN
+F 4 "~" H 11775 2200 50  0001 C CNN "LCSC"
+	1    11775 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61276
+P 13550 6700
+AR Path="/61D61276" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61276" Ref="D_63"  Part="1" 
+F 0 "D_63" V 13620 6600 50  0000 R CNN
+F 1 "D" V 13530 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 13250 6650 50  0001 C CNN
+F 3 "~" H 13250 6650 50  0001 C CNN
+F 4 "C109000" H 13550 6700 50  0001 C CNN "LCSC"
+	1    13550 6700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	12600 6600 12375 6600
+Wire Wire Line
+	12600 6600 12825 6600
+Connection ~ 12600 6600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6128B
+P 12600 6700
+AR Path="/61D6128B" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6128B" Ref="D_62"  Part="1" 
+F 0 "D_62" V 12670 6600 50  0000 R CNN
+F 1 "D" V 12580 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 12300 6650 50  0001 C CNN
+F 3 "~" H 12300 6650 50  0001 C CNN
+F 4 "C109000" H 12600 6700 50  0001 C CNN "LCSC"
+	1    12600 6700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	11850 6600 12075 6600
+Wire Wire Line
+	11625 6600 11850 6600
+Connection ~ 11850 6600
+$Comp
+L Device:D_Small D_?
+U 1 1 61D612A0
+P 11850 6700
+AR Path="/61D612A0" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D612A0" Ref="D_61"  Part="1" 
+F 0 "D_61" V 11920 6600 50  0000 R CNN
+F 1 "D" V 11830 6600 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 11550 6650 50  0001 C CNN
+F 3 "~" H 11550 6650 50  0001 C CNN
+F 4 "C109000" H 11850 6700 50  0001 C CNN "LCSC"
+	1    11850 6700
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1975 6850 0    50   Input ~ 0
+row8
+$Comp
+L Device:D_Small D_?
+U 1 1 61D612BD
+P 12600 5675
+AR Path="/61D612BD" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D612BD" Ref="D_51"  Part="1" 
+F 0 "D_51" V 12670 5575 50  0000 R CNN
+F 1 "D" V 12580 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 12300 5625 50  0001 C CNN
+F 3 "~" H 12300 5625 50  0001 C CNN
+F 4 "C109000" H 12600 5675 50  0001 C CNN "LCSC"
+	1    12600 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D612C9
+P 12650 5375
+AR Path="/61D612C9" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D612C9" Ref="K_56"  Part="1" 
+F 0 "K_56" H 12650 5608 60  0000 C CNN
+F 1 "KEYSW" H 12650 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_2.75U" H 12650 5375 60  0001 C CNN
+F 3 "" H 12650 5375 60  0000 C CNN
+F 4 "~" H 12650 5375 50  0001 C CNN "LCSC"
+	1    12650 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D612CF
+P 11850 5675
+AR Path="/61D612CF" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D612CF" Ref="D_50"  Part="1" 
+F 0 "D_50" V 11920 5575 50  0000 R CNN
+F 1 "D" V 11830 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 11550 5625 50  0001 C CNN
+F 3 "~" H 11550 5625 50  0001 C CNN
+F 4 "C109000" H 11850 5675 50  0001 C CNN "LCSC"
+	1    11850 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D612D5
+P 10925 5675
+AR Path="/61D612D5" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D612D5" Ref="D_49"  Part="1" 
+F 0 "D_49" V 10995 5575 50  0000 R CNN
+F 1 "D" V 10905 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 10625 5625 50  0001 C CNN
+F 3 "~" H 10625 5625 50  0001 C CNN
+F 4 "C109000" H 10925 5675 50  0001 C CNN "LCSC"
+	1    10925 5675
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10125 5525 10125 5575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D612DC
+P 10125 5675
+AR Path="/61D612DC" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D612DC" Ref="D_48"  Part="1" 
+F 0 "D_48" V 10195 5575 50  0000 R CNN
+F 1 "D" V 10105 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 9825 5625 50  0001 C CNN
+F 3 "~" H 9825 5625 50  0001 C CNN
+F 4 "C109000" H 10125 5675 50  0001 C CNN "LCSC"
+	1    10125 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D612E2
+P 10075 5375
+AR Path="/61D612E2" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D612E2" Ref="K_52"  Part="1" 
+F 0 "K_52" H 10075 5608 60  0000 C CNN
+F 1 "KEYSW" H 10075 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10075 5375 60  0001 C CNN
+F 3 "" H 10075 5375 60  0000 C CNN
+F 4 "~" H 10075 5375 50  0001 C CNN "LCSC"
+	1    10075 5375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 5525 9250 5575
+Connection ~ 9675 5325
+Wire Wire Line
+	9450 5325 9675 5325
+$Comp
+L Device:D_Small D_?
+U 1 1 61D612EB
+P 9250 5675
+AR Path="/61D612EB" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D612EB" Ref="D_47"  Part="1" 
+F 0 "D_47" V 9320 5575 50  0000 R CNN
+F 1 "D" V 9230 5575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8950 5625 50  0001 C CNN
+F 3 "~" H 8950 5625 50  0001 C CNN
+F 4 "C109000" H 9250 5675 50  0001 C CNN "LCSC"
+	1    9250 5675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D612F1
+P 9300 5375
+AR Path="/61D612F1" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D612F1" Ref="K_51"  Part="1" 
+F 0 "K_51" H 9300 5608 60  0000 C CNN
+F 1 "KEYSW" H 9300 5275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 9300 5375 60  0001 C CNN
+F 3 "" H 9300 5375 60  0000 C CNN
+F 4 "~" H 9300 5375 50  0001 C CNN "LCSC"
+	1    9300 5375
+	1    0    0    -1  
+$EndComp
+Text GLabel 1975 5850 0    50   Input ~ 0
+row6
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61307
+P 13550 4675
+AR Path="/61D61307" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61307" Ref="D_42"  Part="1" 
+F 0 "D_42" V 13620 4575 50  0000 R CNN
+F 1 "D" V 13530 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 13250 4625 50  0001 C CNN
+F 3 "~" H 13250 4625 50  0001 C CNN
+F 4 "C109000" H 13550 4675 50  0001 C CNN "LCSC"
+	1    13550 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6130D
+P 13500 4375
+AR Path="/61D6130D" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6130D" Ref="K_45"  Part="1" 
+F 0 "K_45" H 13500 4608 60  0000 C CNN
+F 1 "KEYSW" H 13500 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_2.25U" H 13500 4375 60  0001 C CNN
+F 3 "" H 13500 4375 60  0000 C CNN
+F 4 "~" H 13500 4375 50  0001 C CNN "LCSC"
+	1    13500 4375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	11850 4525 11850 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61314
+P 11850 4675
+AR Path="/61D61314" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61314" Ref="D_41"  Part="1" 
+F 0 "D_41" V 11920 4575 50  0000 R CNN
+F 1 "D" V 11830 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 11550 4625 50  0001 C CNN
+F 3 "~" H 11550 4625 50  0001 C CNN
+F 4 "C109000" H 11850 4675 50  0001 C CNN "LCSC"
+	1    11850 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6131A
+P 11800 4375
+AR Path="/61D6131A" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6131A" Ref="K_43"  Part="1" 
+F 0 "K_43" H 11800 4608 60  0000 C CNN
+F 1 "KEYSW" H 11800 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 11800 4375 60  0001 C CNN
+F 3 "" H 11800 4375 60  0000 C CNN
+F 4 "~" H 11800 4375 50  0001 C CNN "LCSC"
+	1    11800 4375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	10925 4525 10925 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61321
+P 10925 4675
+AR Path="/61D61321" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61321" Ref="D_40"  Part="1" 
+F 0 "D_40" V 10995 4575 50  0000 R CNN
+F 1 "D" V 10905 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 10625 4625 50  0001 C CNN
+F 3 "~" H 10625 4625 50  0001 C CNN
+F 4 "C109000" H 10925 4675 50  0001 C CNN "LCSC"
+	1    10925 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61327
+P 10975 4375
+AR Path="/61D61327" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61327" Ref="K_42"  Part="1" 
+F 0 "K_42" H 10975 4608 60  0000 C CNN
+F 1 "KEYSW" H 10975 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10975 4375 60  0001 C CNN
+F 3 "" H 10975 4375 60  0000 C CNN
+F 4 "~" H 10975 4375 50  0001 C CNN "LCSC"
+	1    10975 4375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10125 4525 10125 4575
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6132E
+P 10125 4675
+AR Path="/61D6132E" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6132E" Ref="D_39"  Part="1" 
+F 0 "D_39" V 10195 4575 50  0000 R CNN
+F 1 "D" V 10105 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 9825 4625 50  0001 C CNN
+F 3 "~" H 9825 4625 50  0001 C CNN
+F 4 "C109000" H 10125 4675 50  0001 C CNN "LCSC"
+	1    10125 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61334
+P 10075 4375
+AR Path="/61D61334" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61334" Ref="K_41"  Part="1" 
+F 0 "K_41" H 10075 4608 60  0000 C CNN
+F 1 "KEYSW" H 10075 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10075 4375 60  0001 C CNN
+F 3 "" H 10075 4375 60  0000 C CNN
+F 4 "~" H 10075 4375 50  0001 C CNN "LCSC"
+	1    10075 4375
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 4525 9250 4575
+Wire Wire Line
+	9450 4325 9675 4325
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6133C
+P 9250 4675
+AR Path="/61D6133C" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6133C" Ref="D_38"  Part="1" 
+F 0 "D_38" V 9320 4575 50  0000 R CNN
+F 1 "D" V 9230 4575 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 8950 4625 50  0001 C CNN
+F 3 "~" H 8950 4625 50  0001 C CNN
+F 4 "C109000" H 9250 4675 50  0001 C CNN "LCSC"
+	1    9250 4675
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61342
+P 9300 4375
+AR Path="/61D61342" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61342" Ref="K_40"  Part="1" 
+F 0 "K_40" H 9300 4608 60  0000 C CNN
+F 1 "KEYSW" H 9300 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 9300 4375 60  0001 C CNN
+F 3 "" H 9300 4375 60  0000 C CNN
+F 4 "~" H 9300 4375 50  0001 C CNN "LCSC"
+	1    9300 4375
+	1    0    0    -1  
+$EndComp
+Text GLabel 1975 4850 0    50   Input ~ 0
+row4
+Wire Wire Line
+	13550 3500 13550 3550
+$Comp
+L Device:D_Small D_?
+U 1 1 61D6134A
+P 13550 3650
+AR Path="/61D6134A" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D6134A" Ref="D_23"  Part="1" 
+F 0 "D_23" V 13620 3550 50  0000 R CNN
+F 1 "D" V 13530 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 13250 3600 50  0001 C CNN
+F 3 "~" H 13250 3600 50  0001 C CNN
+F 4 "C109000" H 13550 3650 50  0001 C CNN "LCSC"
+	1    13550 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61350
+P 13500 3350
+AR Path="/61D61350" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61350" Ref="K_24"  Part="1" 
+F 0 "K_24" H 13500 3583 60  0000 C CNN
+F 1 "KEYSW" H 13500 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U" H 13500 3350 60  0001 C CNN
+F 3 "" H 13500 3350 60  0000 C CNN
+F 4 "~" H 13500 3350 50  0001 C CNN "LCSC"
+	1    13500 3350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	12600 3500 12600 3550
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61357
+P 12600 3650
+AR Path="/61D61357" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61357" Ref="D_22"  Part="1" 
+F 0 "D_22" V 12670 3550 50  0000 R CNN
+F 1 "D" V 12580 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 12300 3600 50  0001 C CNN
+F 3 "~" H 12300 3600 50  0001 C CNN
+F 4 "C109000" H 12600 3650 50  0001 C CNN "LCSC"
+	1    12600 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6135D
+P 12650 3350
+AR Path="/61D6135D" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6135D" Ref="K_23"  Part="1" 
+F 0 "K_23" H 12650 3583 60  0000 C CNN
+F 1 "KEYSW" H 12650 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 12650 3350 60  0001 C CNN
+F 3 "" H 12650 3350 60  0000 C CNN
+F 4 "~" H 12650 3350 50  0001 C CNN "LCSC"
+	1    12650 3350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	11850 3500 11850 3550
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61364
+P 11850 3650
+AR Path="/61D61364" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61364" Ref="D_21"  Part="1" 
+F 0 "D_21" V 11920 3550 50  0000 R CNN
+F 1 "D" V 11830 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 11550 3600 50  0001 C CNN
+F 3 "~" H 11550 3600 50  0001 C CNN
+F 4 "C109000" H 11850 3650 50  0001 C CNN "LCSC"
+	1    11850 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6136A
+P 11800 3350
+AR Path="/61D6136A" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6136A" Ref="K_22"  Part="1" 
+F 0 "K_22" H 11800 3583 60  0000 C CNN
+F 1 "KEYSW" H 11800 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 11800 3350 60  0001 C CNN
+F 3 "" H 11800 3350 60  0000 C CNN
+F 4 "~" H 11800 3350 50  0001 C CNN "LCSC"
+	1    11800 3350
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	10925 3500 10925 3550
+Wire Wire Line
+	11125 3300 11375 3300
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61372
+P 10925 3650
+AR Path="/61D61372" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61372" Ref="D_20"  Part="1" 
+F 0 "D_20" V 10995 3550 50  0000 R CNN
+F 1 "D" V 10905 3550 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 10625 3600 50  0001 C CNN
+F 3 "~" H 10625 3600 50  0001 C CNN
+F 4 "C109000" H 10925 3650 50  0001 C CNN "LCSC"
+	1    10925 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61378
+P 10975 3350
+AR Path="/61D61378" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61378" Ref="K_21"  Part="1" 
+F 0 "K_21" H 10975 3583 60  0000 C CNN
+F 1 "KEYSW" H 10975 3250 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 10975 3350 60  0001 C CNN
+F 3 "" H 10975 3350 60  0000 C CNN
+F 4 "~" H 10975 3350 50  0001 C CNN "LCSC"
+	1    10975 3350
+	1    0    0    -1  
+$EndComp
+Text GLabel 1975 3850 0    50   Input ~ 0
+row2
+Text GLabel 11375 1850 0    50   Input ~ 0
+col5
+Text GLabel 9675 1850 0    50   Input ~ 0
+col4
+Text GLabel 7975 1850 0    50   Input ~ 0
+col3
+Text GLabel 6275 1850 0    50   Input ~ 0
+col2
+Text GLabel 4575 1850 0    50   Input ~ 0
+col1
+Text GLabel 2875 1850 0    50   Input ~ 0
+col0
+Text GLabel 1975 2850 0    50   Input ~ 0
+row0
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D612A6
+P 11675 6400
+AR Path="/61D612A6" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D612A6" Ref="K_71"  Part="1" 
+F 0 "K_71" H 11675 6633 60  0000 C CNN
+F 1 "KEYSW" H 11675 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U" H 11675 6400 60  0001 C CNN
+F 3 "" H 11675 6400 60  0000 C CNN
+F 4 "~" H 11675 6400 50  0001 C CNN "LCSC"
+	1    11675 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61297
+P 12025 6400
+AR Path="/61D61297" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61297" Ref="K_72"  Part="1" 
+F 0 "K_72" H 12025 6633 60  0000 C CNN
+F 1 "KEYSW" H 12025 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U_SILK" H 12025 6400 60  0001 C CNN
+F 3 "" H 12025 6400 60  0000 C CNN
+F 4 "~" H 12025 6400 50  0001 C CNN "LCSC"
+	1    12025 6400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61291
+P 12425 6400
+AR Path="/61D61291" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61291" Ref="K_73"  Part="1" 
+F 0 "K_73" H 12425 6633 60  0000 C CNN
+F 1 "KEYSW" H 12425 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.25U" H 12425 6400 60  0001 C CNN
+F 3 "" H 12425 6400 60  0000 C CNN
+F 4 "~" H 12425 6400 50  0001 C CNN "LCSC"
+	1    12425 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61282
+P 12775 6400
+AR Path="/61D61282" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61282" Ref="K_74"  Part="1" 
+F 0 "K_74" H 12775 6633 60  0000 C CNN
+F 1 "KEYSW" H 12775 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U_SILK" H 12775 6400 60  0001 C CNN
+F 3 "" H 12775 6400 60  0000 C CNN
+F 4 "~" H 12775 6400 50  0001 C CNN "LCSC"
+	1    12775 6400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6127C
+P 13500 6400
+AR Path="/61D6127C" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6127C" Ref="K_75"  Part="1" 
+F 0 "K_75" H 13500 6633 60  0000 C CNN
+F 1 "KEYSW" H 13500 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U_SILK" H 13500 6400 60  0001 C CNN
+F 3 "" H 13500 6400 60  0000 C CNN
+F 4 "~" H 13500 6400 50  0001 C CNN "LCSC"
+	1    13500 6400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6108E
+P 7700 6400
+AR Path="/61D6108E" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6108E" Ref="K_69"  Part="1" 
+F 0 "K_69" H 7700 6633 60  0000 C CNN
+F 1 "KEYSW" H 7700 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_7U" H 7700 6400 60  0001 C CNN
+F 3 "" H 7700 6400 60  0000 C CNN
+F 4 "~" H 7700 6400 50  0001 C CNN "LCSC"
+	1    7700 6400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D60E5F
+P 7350 6400
+AR Path="/61D60E5F" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D60E5F" Ref="K_68"  Part="1" 
+F 0 "K_68" H 7350 6633 60  0000 C CNN
+F 1 "KEYSW" H 7350 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_10U" H 7350 6400 60  0001 C CNN
+F 3 "" H 7350 6400 60  0000 C CNN
+F 4 "~" H 7350 6400 50  0001 C CNN "LCSC"
+	1    7350 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D_?
+U 1 1 61D61214
+P 2425 2500
+AR Path="/61D61214" Ref="D_?"  Part="1" 
+AR Path="/5F36C52A/61D61214" Ref="D_1"  Part="1" 
+F 0 "D_1" V 2495 2400 50  0000 R CNN
+F 1 "D" V 2405 2400 50  0000 R CNN
+F 2 "Alps_parts:D_1206" H 2125 2450 50  0001 C CNN
+F 3 "~" H 2125 2450 50  0001 C CNN
+F 4 "C109000" H 2425 2500 50  0001 C CNN "LCSC"
+	1    2425 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D610CE
+P 2475 6400
+AR Path="/61D610CE" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D610CE" Ref="K_63"  Part="1" 
+F 0 "K_63" H 2475 6633 60  0000 C CNN
+F 1 "KEYSW" H 2475 6300 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.5U_SILK" H 2475 6400 60  0001 C CNN
+F 3 "" H 2475 6400 60  0000 C CNN
+F 4 "~" H 2475 6400 50  0001 C CNN "LCSC"
+	1    2475 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2625 5275 2625 5350
+Wire Wire Line
+	2875 5275 2875 5825
+Wire Wire Line
+	1975 6050 5025 6050
+Wire Wire Line
+	13075 5250 13075 5825
+Wire Wire Line
+	11850 6050 14150 6050
+Wire Wire Line
+	13075 4075 13075 4325
+Wire Wire Line
+	12800 5325 12800 5250
+Wire Wire Line
+	12600 5525 12600 5575
+Wire Wire Line
+	13550 4525 13550 4575
+Wire Wire Line
+	13350 4325 13075 4325
+Connection ~ 13075 4325
+Wire Wire Line
+	13075 4325 13075 4825
+Wire Wire Line
+	2425 5550 2425 5600
+Wire Wire Line
+	13075 1850 13075 2150
+Wire Wire Line
+	13350 2150 13075 2150
+Wire Wire Line
+	13550 2350 13550 2400
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D6121A
+P 2475 2200
+AR Path="/61D6121A" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D6121A" Ref="K_1"  Part="1" 
+F 0 "K_1" H 2475 2433 60  0000 C CNN
+F 1 "KEYSW" H 2475 2100 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1U" H 2475 2200 60  0001 C CNN
+F 3 "" H 2475 2200 60  0000 C CNN
+F 4 "~" H 2475 2200 50  0001 C CNN "LCSC"
+	1    2475 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED K_?
+U 1 1 61D61034
+P 2250 4375
+AR Path="/61D61034" Ref="K_?"  Part="1" 
+AR Path="/5F36C52A/61D61034" Ref="K_31"  Part="1" 
+F 0 "K_31" H 2250 4608 60  0000 C CNN
+F 1 "KEYSW" H 2250 4275 60  0001 C CNN
+F 2 "Alps_parts:ALPS_SKCM-P_1.75U_L3" H 2250 4375 60  0001 C CNN
+F 3 "" H 2250 4375 60  0000 C CNN
+F 4 "~" H 2250 4375 50  0001 C CNN "LCSC"
+	1    2250 4375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5025 3050 6725 3050
+Connection ~ 5025 3050
+Connection ~ 6725 3050
+Wire Wire Line
+	6275 3075 6300 3075
+Wire Wire Line
+	6300 3075 6300 3025
+$EndSCHEMATC

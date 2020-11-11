@@ -1,0 +1,16 @@
+(module ALPS_SKCM_CUTOUT_COSTAR_WITHOUTSWITCH (layer F.Cu) (tedit 5EF7E3D7)
+  (fp_text reference Cut** (at 0 1.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ALSP_SKCM_CUTOUT_STAB256 (at -0.01 -7.83) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 13.54955 7.750599) (end 10.24915 7.750599) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -10.25055 -6.4516) (end -10.25055 7.750599) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start 10.24915 7.750599) (end 10.24915 -6.4516) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -10.25055 7.750599) (end -13.54956 7.750599) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start 10.24915 -6.4516) (end 13.54955 -6.4516) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start 13.54955 -6.4516) (end 13.54955 7.750599) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -13.54956 -6.4516) (end -10.25055 -6.4516) (layer Edge.Cuts) (width 0.1))
+  (fp_line (start -13.54956 7.750599) (end -13.54956 -6.4516) (layer Edge.Cuts) (width 0.1))
+)

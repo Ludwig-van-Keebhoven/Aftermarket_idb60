@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name SMF5.0AT1G)(type Legacy)(uri ${KIPRJMOD}/AEK75_parts.pretty/SMF5.0AT1G.lib)(options "")(descr ""))
+  (lib (name TPD4E05U06DQAR)(type Legacy)(uri ${KIPRJMOD}/AEK75_parts.pretty/TPD4E05U06DQAR.lib)(options "")(descr ""))
+)
