@@ -1,7 +1,7 @@
 # Aftermarket idb60 pcb
 
 ## Introduction
-The aftermarket Alps pcb for idb60 that no one asked for but got. It supports Alps SKCL/SKCM and SKCP (pcb mount). Mx stabilisers are used for SKCL/SKCM, costar pcb mount can be used for both.
+The aftermarket Alps pcb for idb60 that no one asked for but got. It supports Alps SKCL/SKCM and SKCP (pcb mount). Mx stabilisers are used for SKCL/SKCM, costar pcb mount can be used for both. It also comes with USB-C and have ESD protection.
 
 ## Supported layouts
 ![layout](https://github.com/Ludwig-van-Keebhoven/Aftermarket_idb60/blob/main/Graphics/layout.PNG)
